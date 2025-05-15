@@ -35,6 +35,9 @@
 
 ### فریمور BIOS (Basic Input/Output System)
 
+![image](https://github.com/user-attachments/assets/54e6c9b4-9ad2-48b1-beaf-1811fada15cb)
+
+
 وظیفه این Firmware ، راه‌اندازی اولیه و بارگذری bootloader از MBR و تست سخت افزارها در Boot میباشد.
 به دلیل حافظه کم به صورت دو مرحله ای عملیات بوت را انجام میدهد.
 
@@ -49,9 +52,15 @@
 
 ### فریمور UEFI (Unified Extensible Firmware Interface)
 
+![image](https://github.com/user-attachments/assets/6dc0b033-108e-4609-8aa6-7cee94b79088)
+
+
 جایگزین BIOS میباشد که از دیسک هایی با ظرفیت بیشتر از 2.2TB پشتیبانی میکند. از فایل های اجرایی (FAT) در `/boot` در ESP (EFI System Partition) برای بوت کامپیوتر استفاده میکند
 
 ## استاندارد PCI (Peripheral Component Interconnect)
+
+![image](https://github.com/user-attachments/assets/aae79fda-7f94-4366-9fe6-96a3b7df61ce)
+
 
 استاندارد اتصال قطعات سخت‌افزاری به مادربرد می باشد. اتصال داخلی قطعات جانبی. کاربر را قادر می‌سازد تا قطعات اضافی را به مادربرد اضافه کند. اکنون اکثر سرورها از PCI Express (PCIe) استفاده می‌کنند.
 
