@@ -71,3 +71,6 @@
 
 استاندارد ارتباطی برای اتصال دستگاه‌های جانبی به کامپیوتر است.
 رابط USB قابلیت تعویض سریع [(hot-swappable)](https://en.wikipedia.org/wiki/Hot_swapping) دارد (دستگاه‌ها را می‌توان بدون خاموش کردن کامپیوتر میزبان تعویض کرد).
+
+![image](https://github.com/user-attachments/assets/e3ff87ab-a3ee-4e93-986e-b09ea49622c4)
+
