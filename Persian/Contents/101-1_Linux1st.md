@@ -65,3 +65,9 @@
 با استفاده از دستور `lspci` میتوان دستگاه های متصل را مشاهده نمود.
 
 ![image](https://github.com/user-attachments/assets/aae79fda-7f94-4366-9fe6-96a3b7df61ce)
+
+
+## استاندارد USB (Universal Serial Bus)
+
+استاندارد ارتباطی برای اتصال دستگاه‌های جانبی به کامپیوتر است.
+رابط USB قابلیت تعویض سریع [(hot-swappable)](https://en.wikipedia.org/wiki/Hot_swapping) دارد (دستگاه‌ها را می‌توان بدون خاموش کردن کامپیوتر میزبان تعویض کرد).
