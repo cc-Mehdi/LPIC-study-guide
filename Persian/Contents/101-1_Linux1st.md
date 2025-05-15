@@ -32,3 +32,9 @@
 در مادربرد میتوان به BIOS(Basin Input/Output System) و UEFI(Unifed Extensible Firmware Interface) اشاره کرد.
 
 بدون firmware، سخت‌افزار نمی‌تواند با OS ارتباط برقرار کند.
+
+## BIOS (Basic Input/Output System)
+
+وظیفه این Firmware ، راه‌اندازی اولیه و بارگذری bootloader از MBR و تست سخت افزارها در Boot میباشد.
+به دلیل حافظه کم به صورت دو مرحله ای عملیات بوت را انجام میدهد.
+
