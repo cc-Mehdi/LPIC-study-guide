@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e2df79a-22c8-4dc0-8dbc-e9080a50dc59)# _101.1_ تعیین و پیکربندی تنظیمات سخت‌افزاری
+# _101.1_ تعیین و پیکربندی تنظیمات سخت‌افزاری
 
 #### درجه سختی : _2_
 #### هدف : داوطلبان باید بتوانند سخت‌افزار اساسی سیستم را تعیین و پیکربندی کنند.
@@ -76,3 +76,8 @@
 
 ![image](https://github.com/user-attachments/assets/e3ff87ab-a3ee-4e93-986e-b09ea49622c4)
 
+## پین های GPIO (General Purpose Input Output)
+
+به پین‌های برنامه‌پذیر برای ارتباط با سخت‌افزارهای سفارشی (مثل رزبری پای) که روی مدار های الکتریکی قرار دارند گفته می شود.
+
+![image](https://github.com/user-attachments/assets/44cb3e4a-2336-496e-a165-bf64375113f3)
