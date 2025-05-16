@@ -95,13 +95,23 @@
 - مشاهده اطلاعات دستگاه‌ها مانند مدل، وضعیت، مصرف انرژی و...
 
 ```
-ls /sys/class/net/  # لیست کارت‌های شبکه
+username:~$ ls /sys/class/net/  # لیست کارت‌های شبکه
 ```
 ```
-echo 1 > /sys/class/leds/input3::capslock/brightness  # تغییر وضعیت LED
+username:~$ echo 1 > /sys/class/leds/input3::capslock/brightness  # تغییر وضعیت LED
+```
+```
+username:~$ ls /sys
+block  bus  class  dev  devices  firmware  fs  hypervisor  kernel  module  power
 ```
 
+## مدیریت دستگاه ها (udev)
 
+یک مدیریت کننده دستگاه (device manager) در لینوکس که مسئول:
+
+- شناسایی دستگاه‌های متصل به صورت داینامیک (مثل USB، هارد اکسترنال).
+- ایجاد فایل‌های دستگاه (/dev/...) به صورت خودکار.
+- اعمال قوانین (rules) برای نامگذاری یا دسترسی به دستگاه‌ها.
 
 
 
