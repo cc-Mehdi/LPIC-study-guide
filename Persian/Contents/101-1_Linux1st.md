@@ -18,7 +18,7 @@
 - **`/dev`**
 - modprobe
 - lsmod
-- lspci
+- lspci 
 - lsusb
 
 ## سیستم عامل (Operating System)
