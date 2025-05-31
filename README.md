@@ -1,4 +1,3 @@
-![GitHub repo views](https://img.shields.io/github/watchers/cc-Mehdi/LPIC-study-guide?label=views)
 
 ![image](https://github.com/user-attachments/assets/c991beaa-c0a7-4eb4-af0d-34a123b1f16d)
 
